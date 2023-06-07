@@ -34,5 +34,5 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Créditos
 
-Cesar Maurticio Hincapie Lopez , cesar.hincapie@correounivalle.edu.co
+Cesar Mauricio Hincapie Lopez , cesar.hincapie@correounivalle.edu.co
 Carlos Fernando Drada Hincapie , carlos.drada@correounivalle.edu.co 
