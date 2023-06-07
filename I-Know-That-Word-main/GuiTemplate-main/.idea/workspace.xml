@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f66dcb9c-9cb5-4ee3-96b4-78e179a7fdea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IKnowThatWord/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IKnowThatWord/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IKnowThatWord/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IKnowThatWord/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IKnowThatWord/PanelDeFrases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IKnowThatWord/PanelDeFrases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/archivos/usuarios.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/archivos/usuarios.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Qn7RSoh4I9pEJD9fhgT8LYzq4F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/IdeaProjects/MemoryGame-main"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.GUI (1)">
+    <configuration name="GUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IKnowThatWord.GUI" />
+      <module name="GUITemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IKnowThatWord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IKnowThatWord.GUI" />
+      <module name="GUITemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IKnowThatWord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI (1)" />
+        <item itemvalue="Application.GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f66dcb9c-9cb5-4ee3-96b4-78e179a7fdea" name="Changes" comment="" />
+      <created>1685977483238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685977483238</updated>
+    </task>
+    <servers />
+  </component>
+</project>
